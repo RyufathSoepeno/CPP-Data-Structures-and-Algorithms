@@ -1,4 +1,4 @@
-// Binary Tree in C++
+// Binary Tree in C++, see programmiz for better explanation
 
 #include <stdlib.h>
 
