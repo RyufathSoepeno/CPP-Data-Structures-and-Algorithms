@@ -1,3 +1,5 @@
+/** Stack is like stacking things, the first that is in, will be the last that is out */
+
 #include <stdlib.h>
 #include <iostream>
 
